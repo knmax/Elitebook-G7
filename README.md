@@ -1,6 +1,6 @@
 Elitebook-G7
 
-HP Elitebook 840 G7 EFI, OC 0.6.5 working on macOS 11.1
+HP Elitebook 840 G7 EFI, OC 0.6.5 working on macOS 11.2
 
 
 
