@@ -1,7 +1,10 @@
-Elitebook-G7
+HP Elitebook G7-Series
 
-HP Elitebook 840 G7 EFI, OC 0.6.5 working on macOS 11.2
+Tested on: HP Elitebook 840 G7
+Should be working on all G7 Series - maybe Battery needs it's own Patch
 
+
+OC 0.6.6 with macOS 11.2
 
 
 SPECS:
@@ -19,9 +22,7 @@ Storage: 256GB SSD
 WIFI/BT: Intel AX201NGW
 
 
-
 STATUS:
-
 
 working:
 
@@ -29,7 +30,8 @@ Keyboard incl. Brightness and Volume Buttons
 
 Trackpad
 
-USB-A + USB-C Ports but no Portmapping until now
+USB-Ports including Portmapping – 2 different USB-Maps
+USB-C Dock only working with USBMapDockG7.kext – only the back port is mapped – front port coming soon
 
 Speakers + 3.5mm Combojack
 
@@ -39,10 +41,9 @@ Battery
 
 WIFI with integrated Intel AX201NGW
 
-
 not working:
 
-Sleep (probably due to USB-Portmapping)
+Sleep 
 
 Bluetooth with integrated Intel AX201NGW
 
