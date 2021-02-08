@@ -44,6 +44,8 @@
 				<dict>
 					<key>SS01</key>
 					<dict>
+						<key>Comment</key>
+						<string>USB3-HUB-Dock</string>
 						<key>UsbConnector</key>
 						<integer>9</integer>
 						<key>port</key>
@@ -120,12 +122,23 @@
 						BAAAAA==
 						</data>
 					</dict>
-					<key>HS06</key>
+					<key>HS05</key>
 					<dict>
 						<key>Comment</key>
 						<string>USB2-HUB-Dock</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
+						<key>port</key>
+						<data>
+						BQAAAA==
+						</data>
+					</dict>
+					<key>HS06</key>
+					<dict>
+						<key>Comment</key>
+						<string>USB2-HUB-Dock</string>
+						<key>UsbConnector</key>
+						<integer>0</integer>
 						<key>port</key>
 						<data>
 						BgAAAA==
