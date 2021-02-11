@@ -3,6 +3,7 @@ HP Elitebook G7-Series
 Tested on: HP Elitebook 840 G7
 Should be working on all G7 Series - maybe Battery needs it's own Patch
 
+dsdt_orig.aml needs to be removed before using this EFI to boot.
 
 OC 0.6.6 with macOS 11.2
 
