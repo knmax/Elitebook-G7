@@ -5,7 +5,7 @@ Should be working on all G7 Series - maybe Battery needs it's own Patch
 
 dsdt_orig.aml needs to be removed before using this EFI to boot.
 
-OC 0.6.6 with macOS 11.2
+OC 0.6.6 with macOS 11.2.1
 
 
 SPECS:
